@@ -1,2 +1,2 @@
-# encore-docs
-Example documentation of fields in Encore.
+# encore-data
+Example that contains documentation of the data fields in Encore.
