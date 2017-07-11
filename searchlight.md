@@ -31,4 +31,17 @@ User              | STR      |
 Summary           | STR      | Partner name                                     |  When you hover you get workgroup and city
 For Client        | STR
 
+### Milestones
+
+The milestones are standard goals that are reached throughout the process.
+
+Field          | Type     | Definition                                       | Format/Notes 
+---------------|:--------:|--------------------------------------------------|-------------
+Milestone      | STR      | Goal                                             | 
+Date Due       | DATETIME | When the milestone should be completed           | 
+Date Done      | DATETIME | When the milestone is completed                  |
+User           | STR      | Team member who has entered information (PC)     | Hover: Username
+Days until due | STR      | <ul><li>"Due in XX days"</li><li>"Done"</li><li>"Due XX Days Ago"</li></ul> |
+
+
 ref: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables
