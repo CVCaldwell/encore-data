@@ -1,0 +1,18 @@
+##Closed Search Checklist
+
+### Searches are closed in Encore when a candidate is placed, the search is cancelled, or the project is completed.
+
+
+Process                                | Details                                     
+-------------------------------------- |:-----------:|
+Create the Closed PCDR                 | STR  | 	Indicate the FINAL position title                                | 
+                                       | STR  | 	Name and email addresses of client(s) and placed candidate receiving the NPS survey                     | 
+                                       | STR  | 	The outcome or status of the search |
+                                       | STR  | 	Indicate if Referencing and background verification is complete                   |
+                          
+Process                                   | Details                                     
+------------------------------------------|:-----------:|
+Send an email to “Project Notification”   | STR  |  Signed Offer letter                                | 
+                                          | STR  | 	Closed PCR signed by partner team                    | 
+                                          | STR  | 	The outcome or status of the search |
+                                          | STR  | 	Indicate if Referencing and background verification is complete                   |
